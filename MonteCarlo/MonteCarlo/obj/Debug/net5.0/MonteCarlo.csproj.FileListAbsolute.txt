@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\MonteCarlo\MonteCarlo\bin\Debug\net5.0\MonteCarlo.exe
+C:\Users\user\source\repos\MonteCarlo\MonteCarlo\bin\Debug\net5.0\MonteCarlo.deps.json
+C:\Users\user\source\repos\MonteCarlo\MonteCarlo\bin\Debug\net5.0\MonteCarlo.runtimeconfig.json
+C:\Users\user\source\repos\MonteCarlo\MonteCarlo\bin\Debug\net5.0\MonteCarlo.runtimeconfig.dev.json
+C:\Users\user\source\repos\MonteCarlo\MonteCarlo\bin\Debug\net5.0\MonteCarlo.dll
+C:\Users\user\source\repos\MonteCarlo\MonteCarlo\bin\Debug\net5.0\ref\MonteCarlo.dll
+C:\Users\user\source\repos\MonteCarlo\MonteCarlo\bin\Debug\net5.0\MonteCarlo.pdb
+C:\Users\user\source\repos\MonteCarlo\MonteCarlo\obj\Debug\net5.0\MonteCarlo.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MonteCarlo\MonteCarlo\obj\Debug\net5.0\MonteCarlo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MonteCarlo\MonteCarlo\obj\Debug\net5.0\MonteCarlo.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MonteCarlo\MonteCarlo\obj\Debug\net5.0\MonteCarlo.AssemblyInfo.cs
+C:\Users\user\source\repos\MonteCarlo\MonteCarlo\obj\Debug\net5.0\MonteCarlo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MonteCarlo\MonteCarlo\obj\Debug\net5.0\MonteCarlo.dll
+C:\Users\user\source\repos\MonteCarlo\MonteCarlo\obj\Debug\net5.0\ref\MonteCarlo.dll
+C:\Users\user\source\repos\MonteCarlo\MonteCarlo\obj\Debug\net5.0\MonteCarlo.pdb
+C:\Users\user\source\repos\MonteCarlo\MonteCarlo\obj\Debug\net5.0\MonteCarlo.genruntimeconfig.cache
