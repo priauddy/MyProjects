@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Intergration\Intergration\bin\Debug\net5.0\Intergration.exe
+C:\Users\user\source\repos\Intergration\Intergration\bin\Debug\net5.0\Intergration.deps.json
+C:\Users\user\source\repos\Intergration\Intergration\bin\Debug\net5.0\Intergration.runtimeconfig.json
+C:\Users\user\source\repos\Intergration\Intergration\bin\Debug\net5.0\Intergration.runtimeconfig.dev.json
+C:\Users\user\source\repos\Intergration\Intergration\bin\Debug\net5.0\Intergration.dll
+C:\Users\user\source\repos\Intergration\Intergration\bin\Debug\net5.0\ref\Intergration.dll
+C:\Users\user\source\repos\Intergration\Intergration\bin\Debug\net5.0\Intergration.pdb
+C:\Users\user\source\repos\Intergration\Intergration\obj\Debug\net5.0\Intergration.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Intergration\Intergration\obj\Debug\net5.0\Intergration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Intergration\Intergration\obj\Debug\net5.0\Intergration.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Intergration\Intergration\obj\Debug\net5.0\Intergration.AssemblyInfo.cs
+C:\Users\user\source\repos\Intergration\Intergration\obj\Debug\net5.0\Intergration.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Intergration\Intergration\obj\Debug\net5.0\Intergration.dll
+C:\Users\user\source\repos\Intergration\Intergration\obj\Debug\net5.0\ref\Intergration.dll
+C:\Users\user\source\repos\Intergration\Intergration\obj\Debug\net5.0\Intergration.pdb
+C:\Users\user\source\repos\Intergration\Intergration\obj\Debug\net5.0\Intergration.genruntimeconfig.cache
